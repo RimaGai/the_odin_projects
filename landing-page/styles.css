@@ -1,0 +1,94 @@
+body {
+  font-family: roboto;
+  margin: 0;
+}
+
+footer,
+header,
+nav {
+  background-color: #1f2937;
+}
+
+nav h2 {
+  color: #f9faf8;
+  font-size: 24px;
+  margin-top: 0;
+}
+
+nav a {
+  color: #e5e7eb;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+  margin-top: 0;
+}
+
+header p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.image-placeholder {
+  background-color: #6C747D;
+}
+.information h2 {
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.information p {
+  color: #737679;
+  font-size: 17px;
+}
+
+.testimonial {
+  background-color: #e5e7eb;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.sign-up {
+  background-color: #3882f6;
+}
+
+.signature {
+  font-size: 23px;
+  color: #1f2937;
+}
+
+.sign-up h3 {
+  color: white;
+  font-size: 24px;
+}
+
+.sign-up p {
+  color: #e5e7eb;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+footer {
+  color: #e5e7eb;
+}
+
+footer p {
+  margin: 0;
+}
