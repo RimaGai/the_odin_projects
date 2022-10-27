@@ -86,8 +86,19 @@ header {
 
 .sign-up {
   background-color: #3882f6;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 150px;
+  width: 1050px;
 }
-
+.action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
 .signature {
   font-size: 23px;
   color: #1f2937;
@@ -96,10 +107,12 @@ header {
 .sign-up h3 {
   color: white;
   font-size: 24px;
+  margin-bottom: 0;
 }
 
 .sign-up p {
   color: #e5e7eb;
+  margin-top: 0;
 }
 
 button {
@@ -110,6 +123,7 @@ button {
   border-radius: 8px;
   padding: 7px 25px;
 }
+
 header button {
   border: #3882f6;
 }
@@ -117,6 +131,7 @@ header button {
 .sign-up button {
   border: solid 2px white;
 }
+
 footer {
   height: 100px;
   display: flex;
