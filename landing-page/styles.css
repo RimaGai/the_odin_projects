@@ -38,7 +38,7 @@ header p {
 }
 
 .image-placeholder {
-  background-color: #6C747D;
+  background-color: #6c747d;
 }
 .information h2 {
   font-size: 36px;
@@ -86,9 +86,13 @@ button {
 }
 
 footer {
-  color: #e5e7eb;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 footer p {
-  margin: 0;
+  font-size: 18px;
+  color: #cacfd6;
 }
